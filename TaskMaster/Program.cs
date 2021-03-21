@@ -18,6 +18,7 @@ namespace TaskMaster
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("MAKING A SMALL CHANGE");
+            Console.WriteLine("A new small change");
         }
     }
 }
